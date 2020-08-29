@@ -1,0 +1,16 @@
+.container {
+    width: 75%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.flex-box-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.flex-box-container img {
+    margin: 10px;
+    box-shadow: 5px 10px 8px #888888;
+}
